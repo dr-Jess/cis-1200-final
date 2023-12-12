@@ -1,0 +1,23 @@
+23
+PLAYING
+0
+W W W W W W W W W W
+W W W W W g W W W W
+W W W W f f g f W W
+W W f W a f f f W W
+W W f W f a f a W W
+W W f W f f f f W W
+W W a f a f f a W W
+W W W W W W W k W W
+W W W W W W W W W W
+W W W W W W W W W W
+_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ L R _ _ _
+_ _ P _ _ _ R _ _ _
+_ _ _ _ _ _ _ _ _ _
+_ _ E _ R R R R _ _
+_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ _ _ _ _ _
